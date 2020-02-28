@@ -1,0 +1,3 @@
+# Timber enabled.
+# This does not enable or disable the plugin, just enables or disables the functionality of the plugin.
+enabled: true

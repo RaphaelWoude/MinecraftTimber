@@ -1,0 +1,10 @@
+name: "Timber"
+author: "Sympatic"
+description: "A lightweight timber plugin. Inspired by the UHC scenario Timber."
+version: "1.0.0"
+main: org.sympatic.timber.Main
+
+commands:
+  timber:
+    description: "Timber main command."
+    usage: "/timber"
