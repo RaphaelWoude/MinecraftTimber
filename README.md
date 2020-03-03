@@ -1,4 +1,4 @@
-# Timber
+# MinecraftTimber
 Created by Sympatic. \
 A lightweight timber plugin. \
 Inspired by the UHC scenario Timber.
